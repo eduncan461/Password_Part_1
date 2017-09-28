@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Password</string>
+    <string name="passwordString">Password</string>
+    <string name="usernameString">Username</string>
+    <string name="submitString">Submit</string>
+    <string name="greetingString">Please enter your username and password.</string>
+    <string name="resetButtonString">RESET</string>
+</resources>
